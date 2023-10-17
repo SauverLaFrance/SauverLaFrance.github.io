@@ -8,7 +8,7 @@ Ce projet a pour objectifs d'identifier des lois simples et qui auraient des eff
  * Plus les produits sont transformés, plus ils sont taxés. 
  * Taxer de façon plus importante tout ce qui est mauvais pour la santé également (boissons sucrés, gateaux, bonbons).
  * Plus les produits viennent de loin, plus ils sont taxés.
-### Effet attendu
+### Effets attendus
 Inciter les gens à consommer des produits plus sains, à les inciter à cuisiner, à baisser les prix et à les rendre en meilleure santé.
 
 ## Religion
@@ -21,6 +21,6 @@ Inciter les gens à consommer des produits plus sains, à les inciter à cuisine
  * Financement et célébration des fêtes religieuses et des aspects culturels positifs des religions (mariages, baptêmes sans circoncision). Faire entrer les bâtiments religieux autres que chrétien au patrimoine culturel Français.
  * Ajout du serment "La République avant ma foi, mes compatriotes avant mes coreligionnaires" lors de la naturalisation. 
 
-### Effet attention
+### Effets attendus
  * Réduire les délits et crimes pour motifs religieux
  * Améliorer le vivre ensemble en forçant les jeunes à s'intéresser aux religions différentes de la leur
