@@ -9,7 +9,7 @@ Ce projet a pour objectifs d'identifier des lois simples et qui auraient des eff
  * Taxer de façon plus importante tout ce qui est mauvais pour la santé également (boissons sucrés, gateaux, bonbons).
  * Plus les produits viennent de loin, plus ils sont taxés.
 ### Effets attendus
-Inciter les gens à consommer des produits plus sains, à les inciter à cuisiner, à baisser les prix et à les rendre en meilleure santé.
+ * Inciter les gens à consommer des produits plus sains, à les inciter à cuisiner, à baisser les prix et à les rendre en meilleure santé.
 
 ## Religion
 ### Lois
