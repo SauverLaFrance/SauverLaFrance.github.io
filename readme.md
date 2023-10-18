@@ -5,9 +5,13 @@ Ce projet a pour objectifs d'identifier des lois simples et qui auraient des eff
 
 ## Alimentation
 ### Lois
- * Plus les produits sont transformés, plus ils sont taxés. 
+ * Plus les produits sont transformés (hors conservation), plus ils sont taxés. 
  * Taxer de façon plus importante tout ce qui est mauvais pour la santé également (boissons sucrés, gateaux, bonbons).
  * Plus les produits viennent de loin, plus ils sont taxés.
+ * Indiquer si les produits sont sauvages ou d'élevages
+ * Etiquettes
+   * Exhaustivité des composants (solvants)
+   * Indication exacte des quantités de chaque ingrédient
 ### Effets attendus
  * Inciter les gens à consommer des produits plus sains, à les inciter à cuisiner, à baisser les prix et à les rendre en meilleure santé.
 
